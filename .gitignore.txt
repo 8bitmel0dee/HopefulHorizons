@@ -1,0 +1,36 @@
+# Build and publish folders
+bin/
+obj/
+wwwroot/
+
+# ASP.NET secrets
+secrets.json
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and diagnostic stuff
+*.log
+
+# VSCode settings 
+.vscode/
+.vscode/settings.json
+
+# Node modules or npm cache 
+node_modules/
+npm-debug.log*
+package-lock.json
+
+.env*
+
+# OneDrive file conflicts
+*.tmp
+~$*

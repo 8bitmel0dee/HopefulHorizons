@@ -1,0 +1,22 @@
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding: 40px;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: var(--mist-gray);
+    color: var(--charcoal-whisper);
+}
+
+header {
+    margin-bottom: 20px;
+    background-color: var(--sage-calm);
+    padding: 16px;
+    margin-bottom: 20px;
+}

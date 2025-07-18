@@ -1,0 +1,22 @@
+.page[b-408rya4dp3] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main[b-408rya4dp3] {
+    flex: 1;
+    padding: 40px;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: var(--mist-gray);
+    color: var(--charcoal-whisper);
+}
+
+header[b-408rya4dp3] {
+    margin-bottom: 20px;
+    background-color: var(--sage-calm) !important;
+    padding: 16px;
+    margin-bottom: 20px;
+}
