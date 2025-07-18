@@ -8,27 +8,94 @@
     color: var(--charcoal-whisper);
 }
 
-header {
-    margin-bottom: 20px;
-    background-color: var(--deep-navy);
-    padding: 16px;
-}
 
 :root {
     --sage-calm: #A3B89F;
     --mist-gray: #F5F5F3;
     --river-bed: #3F4A58;
-    --earth-stone: #6A7466;
     --charcoal-whisper: #2D2F2E;
     --soft-mauve: #CAB9C1;
     --peach-glow: #F2D6C8;
     --font-family: 'Poppins', sans-serif;
 }
 
+/*NavBar*/
+
+.navbar {
+    width: 100%;
+    padding: 24px 0;
+    background-color: var(--river-bed);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 10;
+}
+
+
+.nav-link {
+    position: relative;
+    color: var(--mist-gray);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin: 0 12px;
+}
+
+    .nav-link:hover {
+        color: var(--peach-glow);
+    }
+
+    .nav-link.active {
+        color: var(--peach-glow);
+        border-bottom: 2px solid var(--peach-glow);
+        padding-bottom: 4px;
+        transition: border-bottom 0.3s ease, color 0.3s ease;
+    }
+
+    
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+
+/* MainLayout */
+
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding: 40px;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: var(--mist-gray);
+    color: var(--charcoal-whisper);
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    background-color: var(--river-bed);
+    width: 100%;
+}
+
+
+/* Body */
+
 body {
     font-family: var(--font-family);
     background-color: var(--sage-calm);
     color: var(--charcoal-whisper);
+    margin: 0;
+    padding: 0;
 }
 
 .hero {
@@ -61,6 +128,26 @@ body {
     color: var(--river-bed);
 }
 
+.section-padding {
+    padding: 60px 24px;
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: var(--river-bed);
+    color: var(--mist-gray);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 0.9rem;
+}
+
+
+
+
+
 /* Responsive styles */
 
 @media (max-width: 768px) {
@@ -68,10 +155,11 @@ body {
         max-width: 240px;
     }
 
-    .navbar {
-        flex-direction: column;
-        gap: 12px;
+    .navbar, header {
+        position: relative;
+        z-index: 10;
     }
+
 
     .cta {
         width: 100%;
@@ -80,13 +168,7 @@ body {
 }
 
 
-
-
-        /*Default Blazor*/
-
-
-
-
+/*Default Blazor*/
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid #26b050;
 }

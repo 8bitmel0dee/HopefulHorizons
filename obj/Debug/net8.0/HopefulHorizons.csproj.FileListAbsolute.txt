@@ -815,8 +815,6 @@ C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulH
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\bundle\HopefulHorizons.styles.css
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\projectbundle\HopefulHorizons.bundle.scp.css
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\blazor.build.boot-extension.json
@@ -1033,8 +1031,8 @@ C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulH
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\refint\HopefulHorizons.dll
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\HopefulHorizons.pdb
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\ref\HopefulHorizons.dll
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\Layout\Footer.razor.rz.scp.css
 C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\scopedcss\Pages\Home.razor.rz.scp.css
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\tdwj2x3o3p-28syu78eop.gz
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\2zyykk43ga-ieditsx83k.gz
-C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\gudkgy0das-zoblbp62xu.gz
+C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\HopefulHorizons.sourcelink.json
+C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\tdwj2x3o3p-rz97q1jcma.gz
+C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\2zyykk43ga-50jmc7xyis.gz
+C:\Users\8bitm\OneDrive\Desktop\HopefulHorizons\Project\HopefulHorizons\HopefulHorizons\obj\Debug\net8.0\compressed\gudkgy0das-bg4n5u60pr.gz

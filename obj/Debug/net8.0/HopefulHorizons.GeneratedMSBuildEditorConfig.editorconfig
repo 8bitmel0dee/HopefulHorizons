@@ -28,6 +28,18 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -39,18 +51,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/Footer.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3Rlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-z3j2l0vi7n
-
-[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-408rya4dp3
-
-[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-47otdwlpb3
 
 [C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
