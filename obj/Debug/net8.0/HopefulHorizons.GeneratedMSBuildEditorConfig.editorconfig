@@ -48,10 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/8bitm/OneDrive/Desktop/HopefulHorizons/Project/HopefulHorizons/HopefulHorizons/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-7b7celdill

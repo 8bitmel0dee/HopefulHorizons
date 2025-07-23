@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HopefulHorizons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff863c603c59fcf29139728d0feaf2c9a7ff20ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205608b8c4f5b689c3377961f061cd6682f8b2a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HopefulHorizons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HopefulHorizons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
