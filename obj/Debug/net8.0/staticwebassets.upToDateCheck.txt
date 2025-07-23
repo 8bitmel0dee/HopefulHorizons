@@ -1,3 +1,4 @@
+wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
@@ -5,4 +6,3 @@ wwwroot\icon-192.png
 wwwroot\images\logo.png
 wwwroot\index.html
 wwwroot\sample-data\weather.json
-wwwroot\css\app.css
