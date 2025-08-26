@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "HopefulHorizons",
   "resources": {
-    "hash": "sha256-OxB/sBmrcIiKNqWJ+/jCD5slR//27w6GJKHJ3r9uUP4=",
+    "hash": "sha256-mt8XyHctcvwZ6/s48Wo+e6kM6V7tnEqjtS/1Ym3WJao=",
     "jsModuleNative": {
-      "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
+      "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.js": "sha256-QVLJL2PFoMyGwMOZIRShe4/0TJQfK2WMqoIYdVaI+yM="
+      "dotnet.runtime.js": "sha256-91CDXCvYTrWqTidtPWAY6j9w/EQtJKjSj9VneQwl020="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-0icL1rktur02b0t8WzUUQh+w3sa0rLR7YIla31PAEHM="
+      "dotnet.native.wasm": "sha256-ejEStOt2QNSl51aw0kg/9b8HrrVebvgm5k7AdzN/5VQ="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-UnQd0YPXNpwbXsKqO8RAqgUVuwZsSpprfAIPpdV/y1Q=",
       "netstandard.wasm": "sha256-/QbD8JDZyYwfyk89W3qJL3HTAINDCVziZIySHIZcDhw=",
       "System.Private.CoreLib.wasm": "sha256-oBqNgH7R24FqGbaL3XnfQDqn3rk28jERFosgAryKT6U=",
-      "HopefulHorizons.wasm": "sha256-BBnMI10N/vFILse7Z0UoUR2UaeCqjcMeYLUibGhoBTQ="
+      "HopefulHorizons.wasm": "sha256-dRPuCpTeykVNqN6q6xHuNTcw0yxmbfAe0SSOlnFcoZs="
     },
     "pdb": {
-      "HopefulHorizons.pdb": "sha256-GMgsVoIvCUMP+4TnfA6oB+KbB11bTYoQxnDmjO4LIfM="
+      "HopefulHorizons.pdb": "sha256-d8VQXZR3+BTiROyARQpFjH5g7LNshasdTkG/rCO4jnc="
     }
   },
   "cacheBootResources": true,
