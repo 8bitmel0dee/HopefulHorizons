@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HopefulHorizons",
   "resources": {
-    "hash": "sha256-mt8XyHctcvwZ6/s48Wo+e6kM6V7tnEqjtS/1Ym3WJao=",
+    "hash": "sha256-WZrxH0NKHFAuVjETTX47QeA/fvW7lOGMjJLsvp8wVS0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-UnQd0YPXNpwbXsKqO8RAqgUVuwZsSpprfAIPpdV/y1Q=",
       "netstandard.wasm": "sha256-/QbD8JDZyYwfyk89W3qJL3HTAINDCVziZIySHIZcDhw=",
       "System.Private.CoreLib.wasm": "sha256-oBqNgH7R24FqGbaL3XnfQDqn3rk28jERFosgAryKT6U=",
-      "HopefulHorizons.wasm": "sha256-dRPuCpTeykVNqN6q6xHuNTcw0yxmbfAe0SSOlnFcoZs="
+      "HopefulHorizons.wasm": "sha256-YZcPeCue96jT3wYIMlBs8fgJ51Odr4DyOVTjRr6dtfE="
     },
     "pdb": {
-      "HopefulHorizons.pdb": "sha256-d8VQXZR3+BTiROyARQpFjH5g7LNshasdTkG/rCO4jnc="
+      "HopefulHorizons.pdb": "sha256-EzcCJiF0e1xtQKKhSZ9pIb+TEa3Feao9GsMVGmz4u4E="
     }
   },
   "cacheBootResources": true,

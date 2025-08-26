@@ -230,6 +230,72 @@ body {
 }
 
 
+/* === About Page Styles === */
+
+.about-card {
+    max-width: 700px;
+    background-color: #FFF5EE;
+    border: none;
+}
+
+.card-intro {
+    background-color: #fceee3;
+    border-left: 5px solid var(--river-bed);
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+    .card-intro p {
+        margin: 0;
+        font-size: 1.1em;
+        line-height: 1.6;
+        color: var(--river-bed);
+    }
+
+.about-image {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+    .about-image img {
+        max-width: 200px;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+.about-text {
+    color: var(--river-bed);
+    margin-bottom: 30px;
+}
+
+.about-list {
+    padding-left: 20px;
+    color: var(--river-bed);
+    margin-bottom: 30px;
+}
+
+.card-body h4 {
+    color: var(--river-bed);
+    font-size: 1.3em;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #fceee3;
+    padding-bottom: 5px;
+    letter-spacing: 0.5px;
+}
+
+.about-quote {
+    font-style: italic;
+    color: var(--river-bed);
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
 
 
 /* === Home / Hero Section Styling === */
