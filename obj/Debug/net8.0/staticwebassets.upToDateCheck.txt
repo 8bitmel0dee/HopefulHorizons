@@ -1,4 +1,3 @@
-wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
@@ -7,3 +6,4 @@ wwwroot\images\logo.png
 wwwroot\images\tiffany-headshot.jpg
 wwwroot\index.html
 wwwroot\sample-data\weather.json
+wwwroot\css\app.css
