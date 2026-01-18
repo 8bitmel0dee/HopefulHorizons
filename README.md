@@ -12,7 +12,7 @@ The project includes four pages:
 
 Each page is styled with a consistent design system using custom CSS variables, soft color palettes, and clean typography.
 
-Design Goals
+*Design Goals*
 
 The visual identity focuses on:
 
@@ -24,21 +24,22 @@ The visual identity focuses on:
 
 The goal was to create a site that feels safe, approachable, and professional — ideal for a therapy practice.
 
-Tech Stack
+*Tech Stack*
 
-• 	Blazor Web App (.NET 8)
+- Blazor Web App (.NET 8)
 
-• 	Razor components
+- Razor components
 
-• 	HTML5
+- HTML5
 
-• 	CSS3 (custom design system)
+- CSS3 (custom design system)
 
-• 	Bootstrap (light usage)
+- Bootstrap (light usage)
 
-• 	Google Maps Embed
+- Google Maps Embed
 
-Page Structure
+
+*Page Structure*
 
 Home
 - Hero section with logo and tagline
@@ -63,7 +64,7 @@ Contact Us
 - Embedded Google Map
 - Phone and email links
 
-Responsive Design
+*Responsive Design*
 
 The site includes mobile‑first optimizations:
 - Stacked navigation
@@ -74,7 +75,7 @@ The site includes mobile‑first optimizations:
 
 The layout remains clean and readable across devices.
 
-Code Quality
+*Code Quality*
 
 This project emphasizes:
 
@@ -85,7 +86,7 @@ This project emphasizes:
 - Consistent naming conventions
 - Accessible alt text and link semantics
 
-Future Enhancements
+*Future Enhancements*
 
 Potential next steps:
 - Add a message box on Contact Us Page
@@ -93,10 +94,12 @@ Potential next steps:
 - Expand accessibility features
 
 
-Author
+Author:
 
-Melody Miller 
+Melody Miller
+
 Multi‑skilled developer, writer, and designer
+
 Ashland, KY
 
 8bitmel0dee@gmail.com
