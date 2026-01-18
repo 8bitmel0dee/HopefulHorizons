@@ -27,10 +27,15 @@ The goal was to create a site that feels safe, approachable, and professional �
 Tech Stack
 
 • 	Blazor Web App (.NET 8)
+
 • 	Razor components
+
 • 	HTML5
+
 • 	CSS3 (custom design system)
+
 • 	Bootstrap (light usage)
+
 • 	Google Maps Embed
 
 Page Structure
